@@ -1,0 +1,17 @@
+name = input("Please input your name here ---> ")
+fname = input("Please input your fname here ---> ")
+mname = input("Please input your mname here ---> ")
+birthdate = input("Please input your birth date here ---> ")
+birthmonth = input("Please input your birthmonth here ---> ")
+birthyear = input("Please input your birthyear here ---> ")
+maritalstatus = input("Please input your maritalstatus here ---> ")
+religion = input("Please input your religion here ---> ")
+ethnicity = input("Please input your ethnicity here ---> ")
+mobile = input("Please input your mobile here ---> ")
+email = input("Please input your email here ---> ")
+gender = input("Please input your gender here ---> ")
+address = input("Please input your address here ---> ")
+age = input(" Please input your age here ---> ")
+
+
+print("\n\n\n\n\tHello, My name is,", name ,"I'm", age ,"yrs old.\n\tI identify as", gender ,"\n\tMy father's name is", fname ,"\n\tMy mother's name is", mname ,"\n\tMy Bithday is in", birthmonth , birthdate , birthyear ,"\n\tI live in", address,"\n\tI am", maritalstatus ,"\n\tI am", ethnicity ,"Citizen\n\tMy mobile number is:", mobile ,"\n\tYou may contact me in my email:", email ,"\n\tThank You!!!\n\n\n")

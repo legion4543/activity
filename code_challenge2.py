@@ -1,0 +1,2 @@
+name = input("\nType your name here --->")
+print("\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t*\t*\t*\n\t\t\t\t\t\t\t\t*\t*\t*\t*\t*\n\t\t\t\t\t\t\t*\t*\t*","  Hi",name,"\t*\t*\t*\n\t\t\t\t\t\t\t\t*\t*\t*\t*\t*\n\t\t\t\t\t\t\t\t\t*\t*\t*\n\t\t\t\t\t\t\t\t\t\t*")
